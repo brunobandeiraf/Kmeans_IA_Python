@@ -2,9 +2,12 @@
 
 O algoritmo K-means é uma técnica popular de aprendizado não supervisionado utilizada em análise de agrupamento. Ele agrupa dados em clusters, onde os pontos de dados dentro de um mesmo cluster são mais semelhantes entre si do que com pontos de outros clusters. O objetivo do K-means é encontrar k centróides (pontos representativos) de forma que a soma dos quadrados das distâncias entre os pontos e seus centróides seja minimizada.
 
-A aplicação do K-means pode ser vista em diversos domínios, incluindo a análise de dados biológicos, segmentação de clientes, compressão de imagens, entre outros. No contexto específico do estudo de caso de reconhecimento de pétalas e sépalas usando K-means, utilizando o conjunto de dados da íris (Iris dataset).
+A aplicação do K-means pode ser vista em diversos domínios, incluindo a análise de dados biológicos, segmentação de clientes, compressão de imagens, entre outros. 
 
-O conjunto de dados da íris consiste em medidas de comprimento e largura das sépalas e pétalas de três espécies de flores de íris: setosa, versicolor e virginica. O objetivo é agrupar essas flores com base nessas medidas. 
+## Projeto - Pétalas e Sépalas
+No contexto específico do estudo de caso de reconhecimento de pétalas e sépalas usando K-means, utilizando o conjunto de dados da íris (Iris dataset). O conjunto de dados da íris consiste em medidas de comprimento e largura das sépalas e pétalas de três espécies de flores de íris: setosa, versicolor e virginica. O objetivo é agrupar essas flores com base nessas medidas. 
+
+
 
 # ETAPAS
 1 - Preparação dos dados:
