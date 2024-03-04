@@ -1,0 +1,543 @@
+;cod_cliente;genero;escolaridade;idade;peso;colesterol;id_estado;sigla;regiao;pais;cluster;nome_cluster
+0;1;Masculino;Ensino Médio Completo;39;102.0;111;2;AL;Nordeste;Brasil;0;Risco Moderado
+1;2;Masculino;Superior Incompleto;50;115.0;135;24;SC;Sul;Brasil;0;Risco Moderado
+2;3;Masculino;Ensino Médio Incompleto;38;115.0;136;4;AM;Norte;Brasil;0;Risco Moderado
+3;4;Feminino;Ensino Médio Incompleto;53;140.0;167;24;SC;Sul;Brasil;2;Alto Risco
+4;5;Masculino;Ensino Médio Completo;28;130.0;158;15;PB;Nordeste;Brasil;2;Alto Risco
+5;6;Masculino;Mestrado;37;198.0;227;24;SC;Sul;Brasil;1;Baixo Risco
+6;7;Masculino;Ensino Fundamental Completo;49;114.0;131;23;RR;Norte;Brasil;0;Risco Moderado
+7;8;Feminino;Ensino Médio Incompleto;52;145.0;176;13;MG;Sudeste;Brasil;2;Alto Risco
+8;9;Feminino;Mestrado;31;191.0;223;17;PE;Nordeste;Brasil;1;Baixo Risco
+9;10;Masculino;Ensino Médio Completo;42;186.0;221;16;PR;Sul;Brasil;1;Baixo Risco
+10;11;Feminino;Superior Completo;37;104.0;116;4;AM;Norte;Brasil;0;Risco Moderado
+11;12;Masculino;Superior Incompleto;30;188.0;222;12;MS;Centro-Oeste;Brasil;1;Baixo Risco
+12;13;Feminino;Pós-Graduado;23;96.0;102;22;RO;Norte;Brasil;0;Risco Moderado
+13;14;Feminino;Ensino Médio Completo;32;156.0;192;3;AP;Norte;Brasil;2;Alto Risco
+14;15;Feminino;Ensino Médio Completo;40;125.0;152;12;MS;Centro-Oeste;Brasil;2;Alto Risco
+15;16;Feminino;Ensino Fundamental Incompleto;34;178.0;213;15;PB;Nordeste;Brasil;1;Baixo Risco
+16;17;Feminino;Ensino Médio Incompleto;25;109.0;125;14;PA;Norte;Brasil;0;Risco Moderado
+17;18;Masculino;Ensino Médio Incompleto;32;168.0;204;9;GO;Centro-Oeste;Brasil;1;Baixo Risco
+18;19;Feminino;Ensino Médio Incompleto;38;152.0;189;23;RR;Norte;Brasil;2;Alto Risco
+19;20;Feminino;Mestrado;43;133.0;163;24;SC;Sul;Brasil;2;Alto Risco
+20;21;Feminino;Doutorado;40;153.0;189;8;ES;Sudeste;Brasil;2;Alto Risco
+21;22;Feminino;Ensino Médio Incompleto;54;107.0;122;27;TO;Norte;Brasil;0;Risco Moderado
+22;23;Masculino;Ensino Fundamental Completo;35;199.0;228;7;DF;Centro-Oeste;Brasil;1;Baixo Risco
+23;24;Feminino;Ensino Médio Incompleto;43;140.0;168;22;RO;Norte;Brasil;2;Alto Risco
+24;25;Masculino;Ensino Médio Incompleto;59;95.0;102;25;SP;Sudeste;Brasil;0;Risco Moderado
+25;26;Feminino;Ensino Médio Completo;56;183.0;218;27;TO;Norte;Brasil;1;Baixo Risco
+26;27;Feminino;Ensino Médio Incompleto;19;108.0;123;2;AL;Nordeste;Brasil;0;Risco Moderado
+27;28;Feminino;Ensino Médio Completo;54;190.0;222;8;ES;Sudeste;Brasil;1;Baixo Risco
+28;29;Masculino;Ensino Médio Incompleto;39;174.0;208;19;RJ;Sudeste;Brasil;1;Baixo Risco
+29;30;Masculino;Ensino Médio Incompleto;49;149.0;183;21;RS;Sul;Brasil;2;Alto Risco
+30;31;Masculino;Ensino Médio Completo;23;169.0;204;27;TO;Norte;Brasil;1;Baixo Risco
+31;32;Masculino;Ensino Médio Completo;20;138.0;167;6;CE;Nordeste;Brasil;2;Alto Risco
+32;33;Masculino;Ensino Médio Completo;45;151.0;188;27;TO;Norte;Brasil;2;Alto Risco
+33;34;Masculino;Ensino Médio Completo;30;109.0;126;12;MS;Centro-Oeste;Brasil;0;Risco Moderado
+34;35;Feminino;Ensino Médio Completo;22;178.0;213;16;PR;Sul;Brasil;1;Baixo Risco
+35;36;Masculino;Ensino Médio Incompleto;48;106.0;122;18;PI;Nordeste;Brasil;0;Risco Moderado
+36;37;Masculino;Ensino Médio Completo;21;195.0;225;17;PE;Nordeste;Brasil;1;Baixo Risco
+37;38;Masculino;Ensino Médio Incompleto;19;96.0;105;27;TO;Norte;Brasil;0;Risco Moderado
+38;39;Feminino;Ensino Médio Completo;31;129.0;155;25;SP;Sudeste;Brasil;2;Alto Risco
+39;40;Masculino;Ensino Médio Completo;48;166.0;203;10;MA;Nordeste;Brasil;1;Baixo Risco
+40;41;Masculino;Ensino Fundamental Completo;31;197.0;225;4;AM;Norte;Brasil;1;Baixo Risco
+41;42;Masculino;Ensino Médio Completo;53;148.0;177;8;ES;Sudeste;Brasil;2;Alto Risco
+42;43;Masculino;Ensino Médio Completo;24;117.0;139;21;RS;Sul;Brasil;0;Risco Moderado
+43;44;Feminino;Ensino Médio Incompleto;49;193.0;224;27;TO;Norte;Brasil;1;Baixo Risco
+44;45;Masculino;Superior Completo;25;170.0;207;23;RR;Norte;Brasil;1;Baixo Risco
+45;46;Feminino;Superior Incompleto;57;130.0;158;24;SC;Sul;Brasil;2;Alto Risco
+46;47;Masculino;Pós-Graduado;53;183.0;218;26;SE;Nordeste;Brasil;1;Baixo Risco
+47;48;Feminino;Mestrado;44;134.0;164;19;RJ;Sudeste;Brasil;2;Alto Risco
+48;49;Feminino;Ensino Médio Completo;41;128.0;154;23;RR;Norte;Brasil;2;Alto Risco
+49;50;Feminino;Ensino Médio Completo;29;105.0;118;22;RO;Norte;Brasil;0;Risco Moderado
+50;51;Feminino;Ensino Médio Completo;25;115.0;138;12;MS;Centro-Oeste;Brasil;0;Risco Moderado
+51;52;Masculino;Ensino Médio Incompleto;18;166.0;199;6;CE;Nordeste;Brasil;1;Baixo Risco
+52;53;Masculino;Mestrado;47;183.0;219;26;SE;Nordeste;Brasil;1;Baixo Risco
+53;54;Masculino;Ensino Médio Completo;50;149.0;183;15;PB;Nordeste;Brasil;2;Alto Risco
+54;55;Feminino;Ensino Médio Incompleto;47;110.0;128;19;RJ;Sudeste;Brasil;0;Risco Moderado
+55;56;Feminino;Ensino Médio Completo;43;164.0;197;11;MT;Centro-Oeste;Brasil;1;Baixo Risco
+56;57;Feminino;Ensino Fundamental Incompleto;46;157.0;196;13;MG;Sudeste;Brasil;2;Alto Risco
+57;58;Feminino;Ensino Médio Completo;35;170.0;208;21;RS;Sul;Brasil;1;Baixo Risco
+58;59;Masculino;Ensino Médio Incompleto;41;124.0;152;7;DF;Centro-Oeste;Brasil;2;Alto Risco
+59;60;Masculino;Ensino Médio Incompleto;30;145.0;175;27;TO;Norte;Brasil;2;Alto Risco
+60;61;Feminino;Ensino Médio Completo;30;113.0;129;7;DF;Centro-Oeste;Brasil;0;Risco Moderado
+61;62;Feminino;Ensino Fundamental Incompleto;32;150.0;185;12;MS;Centro-Oeste;Brasil;2;Alto Risco
+62;63;Masculino;Ensino Médio Incompleto;48;100.0;107;4;AM;Norte;Brasil;0;Risco Moderado
+63;65;Feminino;Ensino Médio Completo;29;139.0;167;27;TO;Norte;Brasil;2;Alto Risco
+64;66;Masculino;Ensino Médio Incompleto;36;150.0;185;22;RO;Norte;Brasil;2;Alto Risco
+65;67;Masculino;Ensino Médio Completo;28;101.0;110;1;AC;Norte;Brasil;0;Risco Moderado
+66;68;Masculino;Ensino Médio Incompleto;53;157.0;194;7;DF;Centro-Oeste;Brasil;2;Alto Risco
+67;69;Feminino;Ensino Médio Completo;49;187.0;221;5;BA;Nordeste;Brasil;1;Baixo Risco
+68;70;Feminino;Ensino Médio Completo;25;137.0;166;1;AC;Norte;Brasil;2;Alto Risco
+69;71;Masculino;Ensino Médio Completo;19;121.0;143;24;SC;Sul;Brasil;0;Risco Moderado
+70;72;Feminino;Ensino Médio Completo;31;132.0;163;15;PB;Nordeste;Brasil;2;Alto Risco
+71;73;Masculino;Ensino Médio Completo;29;130.0;158;7;DF;Centro-Oeste;Brasil;2;Alto Risco
+72;74;Feminino;Ensino Médio Completo;23;156.0;191;12;MS;Centro-Oeste;Brasil;2;Alto Risco
+73;75;Feminino;Ensino Médio Completo;79;180.0;216;18;PI;Nordeste;Brasil;1;Baixo Risco
+74;76;Masculino;Ensino Médio Incompleto;27;100.0;106;19;RJ;Sudeste;Brasil;0;Risco Moderado
+75;77;Feminino;Ensino Médio Completo;40;122.0;146;10;MA;Nordeste;Brasil;0;Risco Moderado
+76;78;Feminino;Ensino Fundamental Completo;67;185.0;220;9;GO;Centro-Oeste;Brasil;1;Baixo Risco
+77;79;Feminino;Ensino Médio Incompleto;18;113.0;131;15;PB;Nordeste;Brasil;0;Risco Moderado
+78;80;Feminino;Ensino Fundamental Incompleto;31;123.0;147;19;RJ;Sudeste;Brasil;0;Risco Moderado
+79;81;Feminino;Ensino Médio Incompleto;18;119.0;141;4;AM;Norte;Brasil;0;Risco Moderado
+80;82;Masculino;Ensino Médio Completo;52;113.0;130;27;TO;Norte;Brasil;0;Risco Moderado
+81;83;Masculino;Superior Completo;59;168.0;204;16;PR;Sul;Brasil;1;Baixo Risco
+82;84;Masculino;Superior Incompleto;44;126.0;152;22;RO;Norte;Brasil;2;Alto Risco
+83;85;Masculino;Pós-Graduado;53;102.0;111;13;MG;Sudeste;Brasil;0;Risco Moderado
+84;86;Masculino;Ensino Médio Incompleto;49;116.0;139;26;SE;Nordeste;Brasil;0;Risco Moderado
+85;87;Masculino;Mestrado;33;144.0;172;24;SC;Sul;Brasil;2;Alto Risco
+86;88;Feminino;Ensino Fundamental Completo;30;140.0;168;23;RR;Norte;Brasil;2;Alto Risco
+87;89;Feminino;Doutorado;43;124.0;148;17;PE;Nordeste;Brasil;0;Risco Moderado
+88;90;Feminino;Ensino Médio Completo;57;108.0;123;1;AC;Norte;Brasil;0;Risco Moderado
+89;91;Feminino;Ensino Médio Completo;37;154.0;189;8;ES;Sudeste;Brasil;2;Alto Risco
+90;92;Feminino;Ensino Médio Completo;28;185.0;220;4;AM;Norte;Brasil;1;Baixo Risco
+91;93;Masculino;Ensino Médio Incompleto;30;106.0;120;16;PR;Sul;Brasil;0;Risco Moderado
+92;94;Masculino;Ensino Médio Completo;34;97.0;106;13;MG;Sudeste;Brasil;0;Risco Moderado
+93;95;Feminino;Ensino Médio Completo;29;96.0;105;7;DF;Centro-Oeste;Brasil;0;Risco Moderado
+94;96;Masculino;Doutorado;48;129.0;157;6;CE;Nordeste;Brasil;2;Alto Risco
+95;97;Masculino;Ensino Médio Completo;37;124.0;149;13;MG;Sudeste;Brasil;0;Risco Moderado
+96;98;Feminino;Ensino Médio Completo;48;149.0;185;7;DF;Centro-Oeste;Brasil;2;Alto Risco
+97;99;Feminino;Ensino Médio Incompleto;32;97.0;106;26;SE;Nordeste;Brasil;0;Risco Moderado
+98;100;Masculino;Mestrado;76;102.0;115;9;GO;Centro-Oeste;Brasil;0;Risco Moderado
+99;101;Masculino;Ensino Médio Completo;44;146.0;177;9;GO;Centro-Oeste;Brasil;2;Alto Risco
+100;103;Feminino;Ensino Médio Completo;20;100.0;108;13;MG;Sudeste;Brasil;0;Risco Moderado
+101;104;Feminino;Ensino Médio Incompleto;29;118.0;140;14;PA;Norte;Brasil;0;Risco Moderado
+102;105;Masculino;Ensino Médio Incompleto;32;179.0;214;21;RS;Sul;Brasil;1;Baixo Risco
+103;106;Masculino;Ensino Fundamental Completo;17;179.0;216;3;AP;Norte;Brasil;1;Baixo Risco
+104;107;Feminino;Superior Completo;30;113.0;130;26;SE;Nordeste;Brasil;0;Risco Moderado
+105;108;Feminino;Superior Incompleto;31;142.0;169;6;CE;Nordeste;Brasil;2;Alto Risco
+106;109;Masculino;Pós-Graduado;42;101.0;110;3;AP;Norte;Brasil;0;Risco Moderado
+107;110;Masculino;Ensino Médio Completo;24;174.0;209;10;MA;Nordeste;Brasil;1;Baixo Risco
+108;111;Masculino;Mestrado;38;131.0;162;2;AL;Nordeste;Brasil;2;Alto Risco
+109;112;Masculino;Ensino Médio Incompleto;56;179.0;214;5;BA;Nordeste;Brasil;1;Baixo Risco
+110;113;Masculino;Ensino Médio Completo;28;122.0;145;16;PR;Sul;Brasil;0;Risco Moderado
+111;114;Masculino;Ensino Médio Incompleto;36;105.0;116;15;PB;Nordeste;Brasil;0;Risco Moderado
+112;115;Feminino;Ensino Fundamental Completo;53;176.0;209;6;CE;Nordeste;Brasil;1;Baixo Risco
+113;116;Masculino;Ensino Médio Completo;56;103.0;116;20;RN;Nordeste;Brasil;0;Risco Moderado
+114;117;Masculino;Ensino Médio Completo;49;120.0;139;1;AC;Norte;Brasil;0;Risco Moderado
+115;118;Masculino;Ensino Médio Completo;55;118.0;143;20;RN;Nordeste;Brasil;0;Risco Moderado
+116;119;Feminino;Ensino Médio Incompleto;22;143.0;168;26;SE;Nordeste;Brasil;2;Alto Risco
+117;120;Masculino;Ensino Médio Completo;21;134.0;158;13;MG;Sudeste;Brasil;2;Alto Risco
+118;121;Masculino;Ensino Médio Completo;40;203.0;232;27;TO;Norte;Brasil;1;Baixo Risco
+119;122;Masculino;Ensino Médio Completo;30;116.0;136;25;SP;Sudeste;Brasil;0;Risco Moderado
+120;123;Feminino;Ensino Médio Completo;29;150.0;180;10;MA;Nordeste;Brasil;2;Alto Risco
+121;124;Feminino;Ensino Médio Completo;19;192.0;228;17;PE;Nordeste;Brasil;1;Baixo Risco
+122;125;Masculino;Ensino Médio Completo;47;187.0;222;16;PR;Sul;Brasil;1;Baixo Risco
+123;126;Feminino;Ensino Médio Completo;20;107.0;117;15;PB;Nordeste;Brasil;0;Risco Moderado
+124;127;Masculino;Ensino Médio Completo;31;192.0;224;3;AP;Norte;Brasil;1;Baixo Risco
+125;128;Feminino;Ensino Médio Incompleto;35;97.0;104;1;AC;Norte;Brasil;0;Risco Moderado
+126;129;Feminino;Ensino Médio Completo;39;157.0;195;4;AM;Norte;Brasil;2;Alto Risco
+127;130;Feminino;Ensino Médio Completo;28;128.0;156;8;ES;Sudeste;Brasil;2;Alto Risco
+128;131;Feminino;Ensino Médio Incompleto;24;183.0;213;15;PB;Nordeste;Brasil;1;Baixo Risco
+129;132;Feminino;Ensino Médio Incompleto;38;112.0;133;17;PE;Nordeste;Brasil;0;Risco Moderado
+130;133;Masculino;Ensino Médio Completo;37;173.0;208;24;SC;Sul;Brasil;1;Baixo Risco
+131;134;Feminino;Ensino Médio Completo;46;156.0;195;22;RO;Norte;Brasil;2;Alto Risco
+132;135;Feminino;Mestrado;38;137.0;163;17;PE;Nordeste;Brasil;2;Alto Risco
+133;136;Feminino;Ensino Médio Incompleto;43;156.0;195;27;TO;Norte;Brasil;2;Alto Risco
+134;137;Feminino;Ensino Médio Completo;27;112.0;124;14;PA;Norte;Brasil;0;Risco Moderado
+135;138;Masculino;Ensino Médio Completo;20;203.0;231;7;DF;Centro-Oeste;Brasil;1;Baixo Risco
+136;139;Feminino;Ensino Médio Completo;49;141.0;172;8;ES;Sudeste;Brasil;2;Alto Risco
+137;140;Masculino;Ensino Médio Incompleto;61;97.0;104;4;AM;Norte;Brasil;0;Risco Moderado
+138;141;Feminino;Ensino Médio Completo;27;186.0;221;21;RS;Sul;Brasil;1;Baixo Risco
+139;142;Feminino;Ensino Médio Completo;19;113.0;128;3;AP;Norte;Brasil;0;Risco Moderado
+140;143;Feminino;Ensino Médio Completo;45;195.0;222;22;RO;Norte;Brasil;1;Baixo Risco
+141;144;Masculino;Ensino Médio Completo;70;175.0;214;2;AL;Nordeste;Brasil;1;Baixo Risco
+142;145;Masculino;Ensino Médio Incompleto;31;154.0;184;1;AC;Norte;Brasil;2;Alto Risco
+143;146;Masculino;Ensino Médio Completo;22;173.0;204;14;PA;Norte;Brasil;1;Baixo Risco
+144;148;Masculino;Ensino Médio Incompleto;64;152.0;195;26;SE;Nordeste;Brasil;2;Alto Risco
+145;149;Masculino;Ensino Médio Completo;43;114.0;132;21;RS;Sul;Brasil;0;Risco Moderado
+146;150;Feminino;Ensino Médio Completo;47;181.0;214;8;ES;Sudeste;Brasil;1;Baixo Risco
+147;151;Masculino;Ensino Médio Incompleto;34;111.0;123;25;SP;Sudeste;Brasil;0;Risco Moderado
+148;152;Masculino;Ensino Médio Completo;33;200.0;233;27;TO;Norte;Brasil;1;Baixo Risco
+149;153;Masculino;Ensino Médio Incompleto;21;100.0;107;2;AL;Nordeste;Brasil;0;Risco Moderado
+150;154;Feminino;Ensino Médio Incompleto;52;134.0;162;18;PI;Nordeste;Brasil;2;Alto Risco
+151;155;Masculino;Ensino Médio Incompleto;48;167.0;204;4;AM;Norte;Brasil;1;Baixo Risco
+152;156;Masculino;Ensino Médio Completo;23;198.0;227;26;SE;Nordeste;Brasil;1;Baixo Risco
+153;157;Masculino;Ensino Médio Completo;71;151.0;185;5;BA;Nordeste;Brasil;2;Alto Risco
+154;158;Masculino;Ensino Médio Incompleto;29;121.0;142;7;DF;Centro-Oeste;Brasil;0;Risco Moderado
+155;159;Feminino;Ensino Médio Completo;42;196.0;225;10;MA;Nordeste;Brasil;1;Baixo Risco
+156;160;Masculino;Ensino Fundamental Incompleto;68;171.0;212;14;PA;Norte;Brasil;1;Baixo Risco
+157;161;Feminino;Ensino Médio Incompleto;25;135.0;161;19;RJ;Sudeste;Brasil;2;Alto Risco
+158;162;Masculino;Mestrado;44;186.0;220;24;SC;Sul;Brasil;1;Baixo Risco
+159;163;Feminino;Ensino Médio Incompleto;28;138.0;168;27;TO;Norte;Brasil;2;Alto Risco
+160;164;Feminino;Mestrado;45;133.0;155;13;MG;Sudeste;Brasil;2;Alto Risco
+161;165;Feminino;Ensino Médio Completo;36;107.0;125;25;SP;Sudeste;Brasil;0;Risco Moderado
+162;166;Feminino;Ensino Médio Completo;39;120.0;144;12;MS;Centro-Oeste;Brasil;0;Risco Moderado
+163;167;Masculino;Mestrado;46;168.0;201;14;PA;Norte;Brasil;1;Baixo Risco
+164;168;Masculino;Ensino Médio Incompleto;18;184.0;222;19;RJ;Sudeste;Brasil;1;Baixo Risco
+165;169;Masculino;Ensino Médio Completo;66;154.0;189;21;RS;Sul;Brasil;2;Alto Risco
+166;170;Feminino;Ensino Médio Incompleto;27;115.0;132;21;RS;Sul;Brasil;0;Risco Moderado
+167;171;Feminino;Ensino Médio Incompleto;28;168.0;204;14;PA;Norte;Brasil;1;Baixo Risco
+168;172;Feminino;Ensino Médio Completo;51;161.0;201;8;ES;Sudeste;Brasil;1;Baixo Risco
+169;173;Feminino;Ensino Médio Completo;27;171.0;211;9;GO;Centro-Oeste;Brasil;1;Baixo Risco
+170;174;Masculino;Ensino Médio Completo;28;129.0;156;27;TO;Norte;Brasil;2;Alto Risco
+171;175;Masculino;Ensino Médio Incompleto;27;150.0;179;24;SC;Sul;Brasil;2;Alto Risco
+172;176;Feminino;Ensino Médio Incompleto;21;118.0;129;19;RJ;Sudeste;Brasil;0;Risco Moderado
+173;177;Feminino;Ensino Médio Incompleto;34;154.0;185;17;PE;Nordeste;Brasil;2;Alto Risco
+174;178;Masculino;Ensino Médio Incompleto;18;103.0;107;17;PE;Nordeste;Brasil;0;Risco Moderado
+175;179;Masculino;Ensino Médio Completo;33;180.0;213;19;RJ;Sudeste;Brasil;1;Baixo Risco
+176;180;Feminino;Ensino Médio Completo;44;141.0;172;11;MT;Centro-Oeste;Brasil;2;Alto Risco
+177;181;Masculino;Ensino Médio Completo;43;152.0;193;27;TO;Norte;Brasil;2;Alto Risco
+178;182;Masculino;Ensino Médio Completo;30;104.0;114;1;AC;Norte;Brasil;0;Risco Moderado
+179;183;Masculino;Ensino Fundamental Incompleto;40;159.0;202;17;PE;Nordeste;Brasil;1;Baixo Risco
+180;184;Feminino;Ensino Médio Completo;37;191.0;222;25;SP;Sudeste;Brasil;1;Baixo Risco
+181;185;Feminino;Ensino Médio Incompleto;34;142.0;168;7;DF;Centro-Oeste;Brasil;2;Alto Risco
+182;186;Masculino;Ensino Médio Completo;41;123.0;146;15;PB;Nordeste;Brasil;0;Risco Moderado
+183;187;Feminino;Ensino Médio Completo;53;135.0;170;16;PR;Sul;Brasil;2;Alto Risco
+184;188;Masculino;Mestrado;31;132.0;165;12;MS;Centro-Oeste;Brasil;2;Alto Risco
+185;189;Feminino;Doutorado;58;158.0;196;10;MA;Nordeste;Brasil;2;Alto Risco
+186;190;Feminino;Ensino Médio Completo;38;181.0;224;27;TO;Norte;Brasil;1;Baixo Risco
+187;191;Masculino;Ensino Médio Completo;24;105.0;108;25;SP;Sudeste;Brasil;0;Risco Moderado
+188;192;Feminino;Superior Completo;41;126.0;149;4;AM;Norte;Brasil;0;Risco Moderado
+189;193;Feminino;Superior Incompleto;47;186.0;224;20;RN;Nordeste;Brasil;1;Baixo Risco
+190;194;Feminino;Pós-Graduado;41;116.0;136;20;RN;Nordeste;Brasil;0;Risco Moderado
+191;195;Feminino;Ensino Fundamental Incompleto;23;124.0;152;19;RJ;Sudeste;Brasil;2;Alto Risco
+192;197;Masculino;Mestrado;40;115.0;135;17;PE;Nordeste;Brasil;0;Risco Moderado
+193;198;Masculino;Mestrado;35;173.0;211;26;SE;Nordeste;Brasil;1;Baixo Risco
+194;199;Masculino;Ensino Médio Incompleto;24;128.0;156;2;AL;Nordeste;Brasil;2;Alto Risco
+195;200;Masculino;Mestrado;26;103.0;115;18;PI;Nordeste;Brasil;0;Risco Moderado
+196;201;Masculino;Ensino Médio Incompleto;19;120.0;143;18;PI;Nordeste;Brasil;0;Risco Moderado
+197;202;Masculino;Ensino Médio Completo;51;146.0;179;25;SP;Sudeste;Brasil;2;Alto Risco
+198;203;Feminino;Ensino Médio Completo;42;145.0;173;22;RO;Norte;Brasil;2;Alto Risco
+199;204;Feminino;Ensino Médio Incompleto;37;125.0;148;27;TO;Norte;Brasil;0;Risco Moderado
+200;205;Feminino;Ensino Médio Incompleto;18;109.0;127;4;AM;Norte;Brasil;0;Risco Moderado
+201;206;Feminino;Ensino Médio Completo;36;156.0;194;10;MA;Nordeste;Brasil;2;Alto Risco
+202;207;Feminino;Ensino Médio Incompleto;35;187.0;225;19;RJ;Sudeste;Brasil;1;Baixo Risco
+203;208;Masculino;Ensino Médio Incompleto;58;110.0;127;6;CE;Nordeste;Brasil;0;Risco Moderado
+204;209;Masculino;Ensino Médio Incompleto;17;100.0;106;16;PR;Sul;Brasil;0;Risco Moderado
+205;210;Feminino;Ensino Médio Incompleto;44;97.0;112;2;AL;Nordeste;Brasil;0;Risco Moderado
+206;211;Masculino;Ensino Médio Incompleto;37;133.0;164;8;ES;Sudeste;Brasil;2;Alto Risco
+207;212;Masculino;Ensino Médio Completo;35;128.0;151;19;RJ;Sudeste;Brasil;2;Alto Risco
+208;213;Feminino;Ensino Médio Incompleto;60;154.0;191;16;PR;Sul;Brasil;2;Alto Risco
+209;214;Feminino;Ensino Fundamental Incompleto;54;100.0;110;11;MT;Centro-Oeste;Brasil;0;Risco Moderado
+210;215;Masculino;Ensino Médio Completo;37;104.0;116;22;RO;Norte;Brasil;0;Risco Moderado
+211;217;Feminino;Ensino Médio Completo;38;203.0;235;26;SE;Nordeste;Brasil;1;Baixo Risco
+212;218;Feminino;Ensino Médio Completo;45;104.0;108;15;PB;Nordeste;Brasil;0;Risco Moderado
+213;219;Feminino;Ensino Fundamental Completo;25;119.0;141;5;BA;Nordeste;Brasil;0;Risco Moderado
+214;220;Masculino;Ensino Médio Completo;31;181.0;219;26;SE;Nordeste;Brasil;1;Baixo Risco
+215;221;Masculino;Ensino Fundamental Incompleto;64;180.0;219;11;MT;Centro-Oeste;Brasil;1;Baixo Risco
+216;222;Feminino;Ensino Médio Incompleto;90;116.0;138;14;PA;Norte;Brasil;0;Risco Moderado
+217;223;Feminino;Ensino Médio Incompleto;54;144.0;169;27;TO;Norte;Brasil;2;Alto Risco
+218;224;Masculino;Analfabeto;53;102.0;116;27;TO;Norte;Brasil;0;Risco Moderado
+219;225;Masculino;Ensino Médio Incompleto;18;176.0;212;13;MG;Sudeste;Brasil;1;Baixo Risco
+220;226;Masculino;Ensino Fundamental Completo;60;135.0;162;24;SC;Sul;Brasil;2;Alto Risco
+221;227;Masculino;Ensino Médio Incompleto;66;184.0;220;10;MA;Nordeste;Brasil;1;Baixo Risco
+222;228;Masculino;Ensino Médio Completo;75;124.0;151;19;RJ;Sudeste;Brasil;0;Risco Moderado
+223;229;Masculino;Ensino Médio Incompleto;65;110.0;119;6;CE;Nordeste;Brasil;0;Risco Moderado
+224;230;Feminino;Ensino Médio Incompleto;35;180.0;212;18;PI;Nordeste;Brasil;1;Baixo Risco
+225;231;Masculino;Ensino Médio Incompleto;41;103.0;111;22;RO;Norte;Brasil;0;Risco Moderado
+226;232;Masculino;Ensino Médio Completo;25;117.0;142;15;PB;Nordeste;Brasil;0;Risco Moderado
+227;233;Masculino;Ensino Médio Completo;33;120.0;138;16;PR;Sul;Brasil;0;Risco Moderado
+228;234;Feminino;Mestrado;28;145.0;172;26;SE;Nordeste;Brasil;2;Alto Risco
+229;235;Masculino;Ensino Médio Incompleto;59;133.0;158;26;SE;Nordeste;Brasil;2;Alto Risco
+230;236;Masculino;Ensino Médio Completo;40;201.0;228;7;DF;Centro-Oeste;Brasil;1;Baixo Risco
+231;237;Masculino;Ensino Médio Completo;41;117.0;134;15;PB;Nordeste;Brasil;0;Risco Moderado
+232;238;Feminino;Mestrado;38;146.0;181;27;TO;Norte;Brasil;2;Alto Risco
+233;239;Feminino;Ensino Médio Incompleto;23;195.0;231;10;MA;Nordeste;Brasil;1;Baixo Risco
+234;240;Masculino;Ensino Médio Completo;40;188.0;223;25;SP;Sudeste;Brasil;1;Baixo Risco
+235;241;Feminino;Ensino Médio Incompleto;41;108.0;121;3;AP;Norte;Brasil;0;Risco Moderado
+236;242;Masculino;Ensino Médio Completo;24;191.0;222;16;PR;Sul;Brasil;1;Baixo Risco
+237;243;Feminino;Ensino Médio Completo;20;100.0;102;17;PE;Nordeste;Brasil;0;Risco Moderado
+238;244;Feminino;Ensino Médio Completo;38;158.0;195;15;PB;Nordeste;Brasil;2;Alto Risco
+239;245;Feminino;Ensino Médio Incompleto;56;127.0;156;1;AC;Norte;Brasil;2;Alto Risco
+240;246;Feminino;Ensino Médio Incompleto;58;181.0;214;6;CE;Nordeste;Brasil;1;Baixo Risco
+241;247;Feminino;Ensino Médio Incompleto;32;113.0;132;4;AM;Norte;Brasil;0;Risco Moderado
+242;248;Masculino;Ensino Médio Completo;40;171.0;204;27;TO;Norte;Brasil;1;Baixo Risco
+243;249;Feminino;Ensino Médio Incompleto;45;153.0;190;2;AL;Nordeste;Brasil;2;Alto Risco
+244;250;Feminino;Mestrado;41;137.0;167;8;ES;Sudeste;Brasil;2;Alto Risco
+245;251;Feminino;Ensino Médio Completo;42;154.0;195;17;PE;Nordeste;Brasil;2;Alto Risco
+246;252;Feminino;Ensino Fundamental Completo;59;112.0;127;2;AL;Nordeste;Brasil;0;Risco Moderado
+247;253;Masculino;Ensino Médio Completo;19;201.0;235;4;AM;Norte;Brasil;1;Baixo Risco
+248;254;Feminino;Ensino Médio Completo;58;141.0;171;1;AC;Norte;Brasil;2;Alto Risco
+249;255;Masculino;Ensino Médio Incompleto;42;100.0;110;2;AL;Nordeste;Brasil;0;Risco Moderado
+250;256;Feminino;Ensino Médio Incompleto;20;185.0;221;15;PB;Nordeste;Brasil;1;Baixo Risco
+251;257;Feminino;Ensino Médio Incompleto;32;111.0;128;22;RO;Norte;Brasil;0;Risco Moderado
+252;258;Feminino;Ensino Médio Completo;45;191.0;226;4;AM;Norte;Brasil;1;Baixo Risco
+253;259;Masculino;Ensino Fundamental Incompleto;50;176.0;208;26;SE;Nordeste;Brasil;1;Baixo Risco
+254;260;Masculino;Ensino Médio Completo;36;150.0;191;12;MS;Centro-Oeste;Brasil;2;Alto Risco
+255;261;Masculino;Ensino Médio Incompleto;45;171.0;205;13;MG;Sudeste;Brasil;1;Baixo Risco
+256;262;Masculino;Ensino Médio Incompleto;17;140.0;173;24;SC;Sul;Brasil;2;Alto Risco
+257;263;Masculino;Ensino Médio Completo;59;153.0;191;27;TO;Norte;Brasil;2;Alto Risco
+258;264;Masculino;Ensino Médio Incompleto;26;111.0;128;25;SP;Sudeste;Brasil;0;Risco Moderado
+259;265;Feminino;Ensino Médio Completo;37;180.0;220;15;PB;Nordeste;Brasil;1;Baixo Risco
+260;266;Masculino;Ensino Médio Completo;19;107.0;126;15;PB;Nordeste;Brasil;0;Risco Moderado
+261;267;Masculino;Ensino Médio Incompleto;64;197.0;232;5;BA;Nordeste;Brasil;1;Baixo Risco
+262;268;Masculino;Ensino Médio Completo;33;101.0;108;10;MA;Nordeste;Brasil;0;Risco Moderado
+263;269;Feminino;Ensino Médio Incompleto;33;132.0;159;13;MG;Sudeste;Brasil;2;Alto Risco
+264;270;Masculino;Ensino Médio Incompleto;61;168.0;211;24;SC;Sul;Brasil;1;Baixo Risco
+265;271;Masculino;Ensino Fundamental Completo;17;200.0;232;8;ES;Sudeste;Brasil;1;Baixo Risco
+266;272;Masculino;Mestrado;50;150.0;182;8;ES;Sudeste;Brasil;2;Alto Risco
+267;273;Masculino;Mestrado;27;119.0;145;27;TO;Norte;Brasil;0;Risco Moderado
+268;274;Feminino;Ensino Médio Incompleto;30;197.0;224;10;MA;Nordeste;Brasil;1;Baixo Risco
+269;275;Masculino;Ensino Médio Incompleto;43;172.0;209;4;AM;Norte;Brasil;1;Baixo Risco
+270;276;Feminino;Ensino Médio Completo;44;134.0;160;3;AP;Norte;Brasil;2;Alto Risco
+271;277;Masculino;Ensino Médio Completo;35;185.0;219;26;SE;Nordeste;Brasil;1;Baixo Risco
+272;278;Feminino;Ensino Médio Completo;25;135.0;170;18;PI;Nordeste;Brasil;2;Alto Risco
+273;279;Feminino;Ensino Médio Completo;24;132.0;161;20;RN;Nordeste;Brasil;2;Alto Risco
+274;280;Feminino;Ensino Médio Completo;22;109.0;122;27;TO;Norte;Brasil;0;Risco Moderado
+275;281;Feminino;Ensino Médio Completo;42;116.0;141;20;RN;Nordeste;Brasil;0;Risco Moderado
+276;282;Masculino;Ensino Médio Completo;34;170.0;204;19;RJ;Sudeste;Brasil;1;Baixo Risco
+277;283;Masculino;Ensino Médio Completo;60;187.0;226;11;MT;Centro-Oeste;Brasil;1;Baixo Risco
+278;284;Masculino;Ensino Médio Incompleto;21;154.0;187;17;PE;Nordeste;Brasil;2;Alto Risco
+279;285;Feminino;Mestrado;57;111.0;129;23;RR;Norte;Brasil;0;Risco Moderado
+280;286;Feminino;Mestrado;41;169.0;199;11;MT;Centro-Oeste;Brasil;1;Baixo Risco
+281;287;Feminino;Ensino Médio Completo;50;161.0;199;9;GO;Centro-Oeste;Brasil;1;Baixo Risco
+282;288;Feminino;Ensino Médio Completo;25;174.0;214;20;RN;Nordeste;Brasil;1;Baixo Risco
+283;289;Masculino;Ensino Fundamental Incompleto;50;125.0;159;18;PI;Nordeste;Brasil;2;Alto Risco
+284;290;Masculino;Ensino Médio Completo;36;148.0;176;27;TO;Norte;Brasil;2;Alto Risco
+285;291;Feminino;Ensino Médio Incompleto;31;117.0;129;14;PA;Norte;Brasil;0;Risco Moderado
+286;292;Feminino;Superior Completo;29;154.0;187;4;AM;Norte;Brasil;2;Alto Risco
+287;293;Masculino;Superior Incompleto;21;104.0;109;14;PA;Norte;Brasil;0;Risco Moderado
+288;294;Masculino;Pós-Graduado;27;183.0;212;27;TO;Norte;Brasil;1;Baixo Risco
+289;295;Feminino;Ensino Médio Incompleto;65;142.0;170;13;MG;Sudeste;Brasil;2;Alto Risco
+290;296;Masculino;Ensino Médio Completo;37;155.0;191;18;PI;Nordeste;Brasil;2;Alto Risco
+291;297;Masculino;Mestrado;39;105.0;116;24;SC;Sul;Brasil;0;Risco Moderado
+292;298;Masculino;Ensino Médio Incompleto;24;160.0;202;3;AP;Norte;Brasil;1;Baixo Risco
+293;299;Feminino;Ensino Médio Incompleto;38;191.0;226;15;PB;Nordeste;Brasil;1;Baixo Risco
+294;300;Feminino;Ensino Médio Completo;48;140.0;166;7;DF;Centro-Oeste;Brasil;2;Alto Risco
+295;301;Masculino;Ensino Médio Completo;21;123.0;151;10;MA;Nordeste;Brasil;0;Risco Moderado
+296;302;Feminino;Ensino Médio Incompleto;31;136.0;170;14;PA;Norte;Brasil;2;Alto Risco
+297;303;Masculino;Ensino Médio Incompleto;55;132.0;166;16;PR;Sul;Brasil;2;Alto Risco
+298;304;Feminino;Ensino Médio Completo;24;158.0;193;4;AM;Norte;Brasil;2;Alto Risco
+299;305;Feminino;Ensino Médio Incompleto;43;182.0;218;13;MG;Sudeste;Brasil;1;Baixo Risco
+300;306;Masculino;Ensino Médio Completo;26;104.0;109;26;SE;Nordeste;Brasil;0;Risco Moderado
+301;307;Feminino;Ensino Médio Completo;46;126.0;152;6;CE;Nordeste;Brasil;2;Alto Risco
+302;308;Feminino;Ensino Médio Completo;35;188.0;220;19;RJ;Sudeste;Brasil;1;Baixo Risco
+303;309;Feminino;Ensino Médio Completo;41;118.0;133;9;GO;Centro-Oeste;Brasil;0;Risco Moderado
+304;310;Feminino;Ensino Médio Completo;26;127.0;152;24;SC;Sul;Brasil;2;Alto Risco
+305;311;Feminino;Mestrado;34;123.0;142;7;DF;Centro-Oeste;Brasil;0;Risco Moderado
+306;312;Masculino;Ensino Médio Completo;19;118.0;131;24;SC;Sul;Brasil;0;Risco Moderado
+307;313;Masculino;Ensino Médio Completo;36;169.0;204;13;MG;Sudeste;Brasil;1;Baixo Risco
+308;314;Masculino;Ensino Médio Completo;22;128.0;153;13;MG;Sudeste;Brasil;2;Alto Risco
+309;315;Masculino;Ensino Médio Completo;24;106.0;114;8;ES;Sudeste;Brasil;0;Risco Moderado
+310;316;Masculino;Ensino Médio Completo;77;119.0;144;16;PR;Sul;Brasil;0;Risco Moderado
+311;317;Masculino;Ensino Fundamental Incompleto;22;147.0;172;21;RS;Sul;Brasil;2;Alto Risco
+312;318;Feminino;Ensino Médio Completo;29;141.0;176;22;RO;Norte;Brasil;2;Alto Risco
+313;319;Feminino;Ensino Médio Incompleto;62;125.0;150;2;AL;Nordeste;Brasil;0;Risco Moderado
+314;320;Feminino;Ensino Médio Incompleto;39;109.0;129;15;PB;Nordeste;Brasil;0;Risco Moderado
+315;321;Feminino;Ensino Médio Completo;43;158.0;190;5;BA;Nordeste;Brasil;2;Alto Risco
+316;322;Feminino;Ensino Médio Incompleto;35;190.0;226;9;GO;Centro-Oeste;Brasil;1;Baixo Risco
+317;323;Masculino;Ensino Médio Incompleto;29;110.0;128;19;RJ;Sudeste;Brasil;0;Risco Moderado
+318;324;Masculino;Mestrado;76;99.0;106;22;RO;Norte;Brasil;0;Risco Moderado
+319;325;Feminino;Ensino Médio Incompleto;63;98.0;107;17;PE;Nordeste;Brasil;0;Risco Moderado
+320;326;Masculino;Ensino Médio Completo;23;134.0;159;4;AM;Norte;Brasil;2;Alto Risco
+321;327;Masculino;Ensino Médio Completo;43;129.0;157;22;RO;Norte;Brasil;2;Alto Risco
+322;328;Feminino;Ensino Médio Incompleto;58;154.0;192;7;DF;Centro-Oeste;Brasil;2;Alto Risco
+323;329;Feminino;Ensino Médio Incompleto;66;100.0;110;6;CE;Nordeste;Brasil;0;Risco Moderado
+324;330;Masculino;Ensino Médio Completo;41;107.0;115;5;BA;Nordeste;Brasil;0;Risco Moderado
+325;331;Masculino;Ensino Médio Completo;26;149.0;183;2;AL;Nordeste;Brasil;2;Alto Risco
+326;332;Feminino;Ensino Médio Completo;47;203.0;233;17;PE;Nordeste;Brasil;1;Baixo Risco
+327;333;Feminino;Ensino Fundamental Completo;55;101.0;112;26;SE;Nordeste;Brasil;0;Risco Moderado
+328;334;Feminino;Ensino Médio Incompleto;53;119.0;146;11;MT;Centro-Oeste;Brasil;0;Risco Moderado
+329;335;Masculino;Ensino Fundamental Incompleto;17;182.0;222;3;AP;Norte;Brasil;1;Baixo Risco
+330;336;Masculino;Ensino Médio Incompleto;30;181.0;216;27;TO;Norte;Brasil;1;Baixo Risco
+331;337;Feminino;Mestrado;49;115.0;134;11;MT;Centro-Oeste;Brasil;0;Risco Moderado
+332;338;Feminino;Ensino Médio Incompleto;19;145.0;174;14;PA;Norte;Brasil;2;Alto Risco
+333;339;Masculino;Ensino Médio Incompleto;45;102.0;114;26;SE;Nordeste;Brasil;0;Risco Moderado
+334;340;Masculino;Ensino Médio Completo;26;176.0;211;18;PI;Nordeste;Brasil;1;Baixo Risco
+335;341;Masculino;Ensino Médio Completo;38;134.0;167;12;MS;Centro-Oeste;Brasil;2;Alto Risco
+336;342;Masculino;Ensino Médio Incompleto;36;183.0;214;10;MA;Nordeste;Brasil;1;Baixo Risco
+337;343;Masculino;Ensino Médio Incompleto;33;123.0;145;1;AC;Norte;Brasil;0;Risco Moderado
+338;344;Masculino;Ensino Médio Completo;22;108.0;120;2;AL;Nordeste;Brasil;0;Risco Moderado
+339;345;Feminino;Ensino Médio Completo;43;177.0;217;18;PI;Nordeste;Brasil;1;Baixo Risco
+340;346;Masculino;Ensino Médio Incompleto;67;104.0;113;12;MS;Centro-Oeste;Brasil;0;Risco Moderado
+341;347;Masculino;Ensino Médio Completo;30;117.0;141;22;RO;Norte;Brasil;0;Risco Moderado
+342;348;Masculino;Ensino Médio Completo;56;117.0;140;22;RO;Norte;Brasil;0;Risco Moderado
+343;349;Feminino;Ensino Médio Completo;31;145.0;171;8;ES;Sudeste;Brasil;2;Alto Risco
+344;350;Masculino;Ensino Médio Completo;33;134.0;163;16;PR;Sul;Brasil;2;Alto Risco
+345;351;Masculino;Ensino Médio Incompleto;26;199.0;232;6;CE;Nordeste;Brasil;1;Baixo Risco
+346;352;Masculino;Ensino Médio Completo;33;115.0;131;24;SC;Sul;Brasil;0;Risco Moderado
+347;353;Feminino;Ensino Médio Incompleto;46;149.0;184;25;SP;Sudeste;Brasil;2;Alto Risco
+348;354;Feminino;Ensino Médio Completo;59;192.0;225;9;GO;Centro-Oeste;Brasil;1;Baixo Risco
+349;355;Masculino;Ensino Médio Incompleto;38;188.0;223;19;RJ;Sudeste;Brasil;1;Baixo Risco
+350;356;Feminino;Ensino Médio Incompleto;65;107.0;121;25;SP;Sudeste;Brasil;0;Risco Moderado
+351;357;Masculino;Ensino Médio Completo;40;190.0;223;24;SC;Sul;Brasil;1;Baixo Risco
+352;358;Feminino;Ensino Médio Incompleto;42;98.0;105;5;BA;Nordeste;Brasil;0;Risco Moderado
+353;359;Feminino;Ensino Fundamental Completo;26;158.0;197;24;SC;Sul;Brasil;2;Alto Risco
+354;360;Feminino;Ensino Fundamental Completo;36;128.0;160;11;MT;Centro-Oeste;Brasil;2;Alto Risco
+355;361;Feminino;Mestrado;62;180.0;218;7;DF;Centro-Oeste;Brasil;1;Baixo Risco
+356;362;Feminino;Ensino Médio Completo;43;110.0;131;3;AP;Norte;Brasil;0;Risco Moderado
+357;363;Masculino;Ensino Médio Completo;43;172.0;211;12;MS;Centro-Oeste;Brasil;1;Baixo Risco
+358;364;Feminino;Ensino Médio Incompleto;22;157.0;194;27;TO;Norte;Brasil;2;Alto Risco
+359;365;Feminino;Ensino Médio Incompleto;28;137.0;169;1;AC;Norte;Brasil;2;Alto Risco
+360;366;Feminino;Ensino Médio Completo;56;158.0;189;9;GO;Centro-Oeste;Brasil;2;Alto Risco
+361;367;Feminino;Ensino Médio Completo;22;110.0;128;6;CE;Nordeste;Brasil;0;Risco Moderado
+362;368;Masculino;Ensino Médio Completo;57;203.0;228;7;DF;Centro-Oeste;Brasil;1;Baixo Risco
+363;369;Feminino;Ensino Médio Incompleto;39;145.0;169;5;BA;Nordeste;Brasil;2;Alto Risco
+364;370;Masculino;Ensino Médio Completo;26;96.0;108;3;AP;Norte;Brasil;0;Risco Moderado
+365;371;Feminino;Ensino Médio Incompleto;17;186.0;219;8;ES;Sudeste;Brasil;1;Baixo Risco
+366;372;Feminino;Ensino Médio Completo;40;110.0;124;6;CE;Nordeste;Brasil;0;Risco Moderado
+367;373;Feminino;Ensino Médio Incompleto;45;194.0;224;26;SE;Nordeste;Brasil;1;Baixo Risco
+368;374;Masculino;Ensino Médio Incompleto;44;177.0;214;25;SP;Sudeste;Brasil;1;Baixo Risco
+369;375;Masculino;Ensino Médio Completo;20;152.0;190;27;TO;Norte;Brasil;2;Alto Risco
+370;376;Masculino;Ensino Médio Incompleto;33;172.0;205;12;MS;Centro-Oeste;Brasil;1;Baixo Risco
+371;377;Masculino;Ensino Médio Completo;23;140.0;167;8;ES;Sudeste;Brasil;2;Alto Risco
+372;378;Masculino;Mestrado;46;154.0;190;6;CE;Nordeste;Brasil;2;Alto Risco
+373;379;Masculino;Ensino Médio Incompleto;54;113.0;128;9;GO;Centro-Oeste;Brasil;0;Risco Moderado
+374;380;Feminino;Ensino Fundamental Incompleto;46;179.0;217;18;PI;Nordeste;Brasil;1;Baixo Risco
+375;381;Masculino;Ensino Médio Completo;25;111.0;126;17;PE;Nordeste;Brasil;0;Risco Moderado
+376;382;Masculino;Ensino Médio Completo;46;196.0;228;10;MA;Nordeste;Brasil;1;Baixo Risco
+377;383;Masculino;Ensino Médio Completo;36;101.0;105;14;PA;Norte;Brasil;0;Risco Moderado
+378;384;Feminino;Ensino Médio Incompleto;23;131.0;162;27;TO;Norte;Brasil;2;Alto Risco
+379;385;Masculino;Ensino Médio Incompleto;29;171.0;211;25;SP;Sudeste;Brasil;1;Baixo Risco
+380;386;Masculino;Ensino Médio Completo;44;199.0;227;11;MT;Centro-Oeste;Brasil;1;Baixo Risco
+381;387;Masculino;Ensino Médio Completo;19;151.0;178;12;MS;Centro-Oeste;Brasil;2;Alto Risco
+382;388;Masculino;Ensino Médio Incompleto;19;121.0;146;23;RR;Norte;Brasil;0;Risco Moderado
+383;389;Feminino;Ensino Médio Incompleto;35;196.0;227;25;SP;Sudeste;Brasil;1;Baixo Risco
+384;390;Masculino;Ensino Médio Completo;27;174.0;208;13;MG;Sudeste;Brasil;1;Baixo Risco
+385;391;Feminino;Ensino Médio Completo;46;135.0;163;7;DF;Centro-Oeste;Brasil;2;Alto Risco
+386;392;Masculino;Ensino Médio Completo;34;184.0;225;25;SP;Sudeste;Brasil;1;Baixo Risco
+387;393;Feminino;Ensino Médio Incompleto;34;137.0;167;18;PI;Nordeste;Brasil;2;Alto Risco
+388;394;Feminino;Ensino Médio Completo;44;129.0;162;23;RR;Norte;Brasil;2;Alto Risco
+389;395;Feminino;Ensino Médio Completo;45;108.0;125;11;MT;Centro-Oeste;Brasil;0;Risco Moderado
+390;396;Feminino;Ensino Médio Incompleto;20;116.0;144;13;MG;Sudeste;Brasil;0;Risco Moderado
+391;397;Masculino;Ensino Médio Completo;25;168.0;199;22;RO;Norte;Brasil;1;Baixo Risco
+392;398;Masculino;Ensino Médio Completo;52;184.0;226;12;MS;Centro-Oeste;Brasil;1;Baixo Risco
+393;399;Masculino;Ensino Médio Completo;20;151.0;183;7;DF;Centro-Oeste;Brasil;2;Alto Risco
+394;400;Feminino;Ensino Médio Completo;28;114.0;136;7;DF;Centro-Oeste;Brasil;0;Risco Moderado
+395;401;Feminino;Ensino Médio Completo;50;167.0;199;7;DF;Centro-Oeste;Brasil;1;Baixo Risco
+396;402;Feminino;Ensino Médio Completo;34;160.0;204;15;PB;Nordeste;Brasil;1;Baixo Risco
+397;403;Feminino;Ensino Fundamental Incompleto;28;175.0;215;27;TO;Norte;Brasil;1;Baixo Risco
+398;404;Masculino;Mestrado;41;127.0;155;9;GO;Centro-Oeste;Brasil;2;Alto Risco
+399;405;Masculino;Ensino Médio Incompleto;46;146.0;179;2;AL;Nordeste;Brasil;2;Alto Risco
+400;406;Feminino;Ensino Médio Completo;28;118.0;133;11;MT;Centro-Oeste;Brasil;0;Risco Moderado
+401;407;Feminino;Ensino Médio Completo;32;151.0;186;3;AP;Norte;Brasil;2;Alto Risco
+402;408;Masculino;Ensino Médio Completo;41;105.0;111;11;MT;Centro-Oeste;Brasil;0;Risco Moderado
+403;409;Masculino;Ensino Médio Incompleto;24;180.0;219;13;MG;Sudeste;Brasil;1;Baixo Risco
+404;410;Feminino;Ensino Médio Completo;33;140.0;173;9;GO;Centro-Oeste;Brasil;2;Alto Risco
+405;411;Masculino;Doutorado;46;155.0;185;9;GO;Centro-Oeste;Brasil;2;Alto Risco
+406;412;Masculino;Ensino Médio Completo;31;106.0;118;26;SE;Nordeste;Brasil;0;Risco Moderado
+407;413;Masculino;Ensino Médio Incompleto;35;160.0;199;8;ES;Sudeste;Brasil;1;Baixo Risco
+408;414;Feminino;Ensino Fundamental Incompleto;52;192.0;226;14;PA;Norte;Brasil;1;Baixo Risco
+409;415;Feminino;Ensino Médio Incompleto;30;138.0;169;9;GO;Centro-Oeste;Brasil;2;Alto Risco
+410;416;Masculino;Ensino Médio Incompleto;34;122.0;144;25;SP;Sudeste;Brasil;0;Risco Moderado
+411;417;Feminino;Ensino Médio Incompleto;34;135.0;166;7;DF;Centro-Oeste;Brasil;2;Alto Risco
+412;418;Masculino;Ensino Médio Completo;20;132.0;166;26;SE;Nordeste;Brasil;2;Alto Risco
+413;419;Feminino;Ensino Médio Incompleto;17;158.0;198;5;BA;Nordeste;Brasil;2;Alto Risco
+414;420;Feminino;Ensino Médio Completo;32;184.0;222;25;SP;Sudeste;Brasil;1;Baixo Risco
+415;421;Masculino;Ensino Médio Incompleto;29;101.0;110;11;MT;Centro-Oeste;Brasil;0;Risco Moderado
+416;422;Feminino;Ensino Fundamental Completo;33;126.0;154;11;MT;Centro-Oeste;Brasil;2;Alto Risco
+417;423;Feminino;Ensino Médio Incompleto;25;188.0;226;21;RS;Sul;Brasil;1;Baixo Risco
+418;424;Feminino;Mestrado;36;118.0;135;20;RN;Nordeste;Brasil;0;Risco Moderado
+419;425;Feminino;Ensino Médio Incompleto;23;127.0;151;1;AC;Norte;Brasil;2;Alto Risco
+420;426;Feminino;Ensino Médio Incompleto;63;123.0;146;16;PR;Sul;Brasil;0;Risco Moderado
+421;427;Masculino;Mestrado;47;117.0;133;4;AM;Norte;Brasil;0;Risco Moderado
+422;428;Masculino;Ensino Médio Incompleto;80;172.0;205;2;AL;Nordeste;Brasil;1;Baixo Risco
+423;429;Masculino;Ensino Médio Incompleto;17;127.0;154;2;AL;Nordeste;Brasil;2;Alto Risco
+424;430;Masculino;Ensino Médio Completo;40;104.0;116;21;RS;Sul;Brasil;0;Risco Moderado
+425;431;Masculino;Ensino Médio Completo;27;121.0;145;14;PA;Norte;Brasil;0;Risco Moderado
+426;432;Masculino;Mestrado;33;148.0;174;5;BA;Nordeste;Brasil;2;Alto Risco
+427;433;Feminino;Ensino Médio Incompleto;34;141.0;168;7;DF;Centro-Oeste;Brasil;2;Alto Risco
+428;434;Feminino;Ensino Médio Completo;34;128.0;156;5;BA;Nordeste;Brasil;2;Alto Risco
+429;435;Feminino;Ensino Médio Completo;23;113.0;124;24;SC;Sul;Brasil;0;Risco Moderado
+430;436;Feminino;Ensino Médio Completo;42;155.0;196;26;SE;Nordeste;Brasil;2;Alto Risco
+431;437;Feminino;Ensino Médio Completo;29;189.0;227;4;AM;Norte;Brasil;1;Baixo Risco
+432;438;Masculino;Ensino Médio Incompleto;45;108.0;122;24;SC;Sul;Brasil;0;Risco Moderado
+433;439;Masculino;Ensino Médio Incompleto;24;98.0;106;22;RO;Norte;Brasil;0;Risco Moderado
+434;440;Feminino;Ensino Médio Completo;44;100.0;110;4;AM;Norte;Brasil;0;Risco Moderado
+435;441;Masculino;Ensino Fundamental Completo;27;134.0;158;3;AP;Norte;Brasil;2;Alto Risco
+436;442;Masculino;Ensino Médio Completo;20;125.0;154;11;MT;Centro-Oeste;Brasil;2;Alto Risco
+437;443;Feminino;Ensino Médio Incompleto;44;151.0;190;5;BA;Nordeste;Brasil;2;Alto Risco
+438;444;Feminino;Ensino Médio Incompleto;51;100.0;110;18;PI;Nordeste;Brasil;0;Risco Moderado
+439;445;Masculino;Ensino Médio Incompleto;20;107.0;120;16;PR;Sul;Brasil;0;Risco Moderado
+440;446;Masculino;Ensino Médio Incompleto;17;147.0;180;1;AC;Norte;Brasil;2;Alto Risco
+441;447;Feminino;Ensino Médio Incompleto;19;200.0;232;5;BA;Nordeste;Brasil;1;Baixo Risco
+442;448;Feminino;Ensino Médio Completo;45;101.0;110;26;SE;Nordeste;Brasil;0;Risco Moderado
+443;449;Feminino;Ensino Médio Incompleto;60;120.0;142;26;SE;Nordeste;Brasil;0;Risco Moderado
+444;450;Masculino;Ensino Médio Completo;42;181.0;222;27;TO;Norte;Brasil;1;Baixo Risco
+445;451;Masculino;Ensino Médio Incompleto;44;182.0;218;2;AL;Nordeste;Brasil;1;Baixo Risco
+446;452;Feminino;Ensino Médio Completo;40;117.0;138;12;MS;Centro-Oeste;Brasil;0;Risco Moderado
+447;453;Feminino;Ensino Médio Incompleto;30;145.0;176;21;RS;Sul;Brasil;2;Alto Risco
+448;454;Masculino;Ensino Médio Completo;38;106.0;115;14;PA;Norte;Brasil;0;Risco Moderado
+449;455;Masculino;Ensino Médio Incompleto;23;179.0;211;9;GO;Centro-Oeste;Brasil;1;Baixo Risco
+450;456;Masculino;Ensino Médio Completo;32;134.0;168;3;AP;Norte;Brasil;2;Alto Risco
+451;457;Masculino;Ensino Médio Incompleto;54;180.0;216;7;DF;Centro-Oeste;Brasil;1;Baixo Risco
+452;458;Masculino;Ensino Médio Completo;32;126.0;147;22;RO;Norte;Brasil;0;Risco Moderado
+453;459;Masculino;Ensino Fundamental Incompleto;50;110.0;124;10;MA;Nordeste;Brasil;0;Risco Moderado
+454;460;Feminino;Ensino Médio Completo;24;180.0;215;11;MT;Centro-Oeste;Brasil;1;Baixo Risco
+455;461;Masculino;Ensino Médio Incompleto;37;103.0;117;6;CE;Nordeste;Brasil;0;Risco Moderado
+456;462;Masculino;Ensino Médio Incompleto;52;116.0;139;23;RR;Norte;Brasil;0;Risco Moderado
+457;463;Masculino;Ensino Médio Completo;38;119.0;138;10;MA;Nordeste;Brasil;0;Risco Moderado
+458;464;Feminino;Mestrado;49;144.0;171;9;GO;Centro-Oeste;Brasil;2;Alto Risco
+459;465;Masculino;Ensino Médio Completo;30;133.0;158;24;SC;Sul;Brasil;2;Alto Risco
+460;466;Masculino;Ensino Médio Completo;60;199.0;232;18;PI;Nordeste;Brasil;1;Baixo Risco
+461;467;Masculino;Ensino Médio Completo;22;115.0;139;19;RJ;Sudeste;Brasil;0;Risco Moderado
+462;468;Feminino;Ensino Médio Incompleto;35;150.0;178;27;TO;Norte;Brasil;2;Alto Risco
+463;469;Feminino;Ensino Médio Incompleto;30;192.0;224;21;RS;Sul;Brasil;1;Baixo Risco
+464;470;Masculino;Ensino Médio Completo;67;188.0;224;11;MT;Centro-Oeste;Brasil;1;Baixo Risco
+465;471;Feminino;Ensino Médio Completo;46;109.0;116;2;AL;Nordeste;Brasil;0;Risco Moderado
+466;472;Masculino;Ensino Fundamental Completo;17;189.0;223;15;PB;Nordeste;Brasil;1;Baixo Risco
+467;473;Feminino;Ensino Médio Completo;22;101.0;109;17;PE;Nordeste;Brasil;0;Risco Moderado
+468;474;Feminino;Ensino Fundamental Completo;27;159.0;193;14;PA;Norte;Brasil;2;Alto Risco
+469;475;Feminino;Ensino Médio Incompleto;23;128.0;155;5;BA;Nordeste;Brasil;2;Alto Risco
+470;476;Feminino;Ensino Médio Completo;33;182.0;221;16;PR;Sul;Brasil;1;Baixo Risco
+471;477;Feminino;Ensino Médio Completo;43;111.0;130;9;GO;Centro-Oeste;Brasil;0;Risco Moderado
+472;478;Masculino;Ensino Médio Completo;28;171.0;212;12;MS;Centro-Oeste;Brasil;1;Baixo Risco
+473;479;Feminino;Ensino Médio Incompleto;41;154.0;190;6;CE;Nordeste;Brasil;2;Alto Risco
+474;480;Feminino;Ensino Médio Incompleto;52;134.0;169;22;RO;Norte;Brasil;2;Alto Risco
+475;481;Feminino;Ensino Médio Completo;25;157.0;191;23;RR;Norte;Brasil;2;Alto Risco
+476;482;Feminino;Ensino Fundamental Incompleto;63;112.0;122;17;PE;Nordeste;Brasil;0;Risco Moderado
+477;483;Masculino;Ensino Médio Completo;45;203.0;234;2;AL;Nordeste;Brasil;1;Baixo Risco
+478;484;Feminino;Ensino Médio Completo;38;142.0;175;21;RS;Sul;Brasil;2;Alto Risco
+479;485;Masculino;Ensino Médio Incompleto;40;97.0;108;15;PB;Nordeste;Brasil;0;Risco Moderado
+480;486;Feminino;Ensino Médio Incompleto;46;187.0;220;11;MT;Centro-Oeste;Brasil;1;Baixo Risco
+481;487;Feminino;Ensino Médio Completo;35;111.0;126;2;AL;Nordeste;Brasil;0;Risco Moderado
+482;488;Feminino;Ensino Médio Incompleto;34;194.0;227;13;MG;Sudeste;Brasil;1;Baixo Risco
+483;489;Masculino;Ensino Médio Completo;33;176.0;216;10;MA;Nordeste;Brasil;1;Baixo Risco
+484;490;Masculino;Ensino Médio Incompleto;41;153.0;188;4;AM;Norte;Brasil;2;Alto Risco
+485;491;Masculino;Ensino Médio Completo;20;171.0;205;2;AL;Nordeste;Brasil;1;Baixo Risco
+486;492;Masculino;Ensino Fundamental Incompleto;23;142.0;172;14;PA;Norte;Brasil;2;Alto Risco
+487;493;Masculino;Ensino Médio Completo;26;153.0;192;22;RO;Norte;Brasil;2;Alto Risco
+488;494;Masculino;Ensino Médio Incompleto;72;113.0;129;23;RR;Norte;Brasil;0;Risco Moderado
+489;495;Feminino;Ensino Médio Incompleto;23;183.0;219;16;PR;Sul;Brasil;1;Baixo Risco
+490;496;Masculino;Ensino Médio Incompleto;62;108.0;127;21;RS;Sul;Brasil;0;Risco Moderado
+491;497;Masculino;Ensino Médio Completo;52;200.0;228;2;AL;Nordeste;Brasil;1;Baixo Risco
+492;498;Masculino;Ensino Médio Completo;58;99.0;105;25;SP;Sudeste;Brasil;0;Risco Moderado
+493;499;Feminino;Ensino Médio Completo;25;131.0;159;13;MG;Sudeste;Brasil;2;Alto Risco
+494;500;Masculino;Ensino Médio Completo;24;171.0;205;8;ES;Sudeste;Brasil;1;Baixo Risco
+495;501;Masculino;Ensino Médio Completo;19;200.0;228;14;PA;Norte;Brasil;1;Baixo Risco
+496;502;Masculino;Ensino Médio Completo;43;152.0;178;20;RN;Nordeste;Brasil;2;Alto Risco
+497;503;Masculino;Ensino Médio Incompleto;47;119.0;139;7;DF;Centro-Oeste;Brasil;0;Risco Moderado
+498;504;Feminino;Ensino Médio Incompleto;39;196.0;232;9;GO;Centro-Oeste;Brasil;1;Baixo Risco
+499;505;Masculino;Ensino Médio Completo;49;173.0;212;12;MS;Centro-Oeste;Brasil;1;Baixo Risco
+500;506;Feminino;Ensino Fundamental Incompleto;53;132.0;162;27;TO;Norte;Brasil;2;Alto Risco
+501;507;Masculino;Ensino Médio Completo;32;185.0;226;8;ES;Sudeste;Brasil;1;Baixo Risco
+502;508;Feminino;Ensino Médio Completo;34;138.0;171;25;SP;Sudeste;Brasil;2;Alto Risco
+503;509;Feminino;Ensino Médio Completo;57;132.0;159;7;DF;Centro-Oeste;Brasil;2;Alto Risco
+504;510;Feminino;Ensino Médio Completo;25;110.0;120;22;RO;Norte;Brasil;0;Risco Moderado
+505;511;Feminino;Ensino Médio Completo;20;119.0;143;13;MG;Sudeste;Brasil;0;Risco Moderado
+506;512;Masculino;Ensino Médio Completo;21;167.0;200;25;SP;Sudeste;Brasil;1;Baixo Risco
+507;513;Masculino;Ensino Médio Completo;34;188.0;221;17;PE;Nordeste;Brasil;1;Baixo Risco
+508;514;Masculino;Ensino Médio Completo;38;151.0;184;15;PB;Nordeste;Brasil;2;Alto Risco
+509;515;Feminino;Ensino Médio Incompleto;50;112.0;134;5;BA;Nordeste;Brasil;0;Risco Moderado
+510;516;Feminino;Ensino Médio Completo;24;166.0;200;23;RR;Norte;Brasil;1;Baixo Risco
+511;517;Feminino;Ensino Médio Completo;37;158.0;201;5;BA;Nordeste;Brasil;1;Baixo Risco
+512;518;Feminino;Ensino Médio Completo;44;172.0;210;25;SP;Sudeste;Brasil;1;Baixo Risco
+513;519;Masculino;Ensino Médio Completo;28;127.0;159;14;PA;Norte;Brasil;2;Alto Risco
+514;520;Masculino;Ensino Médio Completo;42;150.0;178;21;RS;Sul;Brasil;2;Alto Risco
+515;521;Feminino;Ensino Médio Completo;74;115.0;137;21;RS;Sul;Brasil;0;Risco Moderado
+516;522;Feminino;Ensino Médio Incompleto;38;151.0;190;16;PR;Sul;Brasil;2;Alto Risco
+517;523;Masculino;Mestrado;44;103.0;110;14;PA;Norte;Brasil;0;Risco Moderado
+518;524;Masculino;Ensino Médio Incompleto;44;181.0;213;14;PA;Norte;Brasil;1;Baixo Risco
+519;525;Feminino;Ensino Médio Incompleto;26;141.0;170;13;MG;Sudeste;Brasil;2;Alto Risco
+520;526;Masculino;Ensino Médio Incompleto;36;152.0;193;19;RJ;Sudeste;Brasil;2;Alto Risco
+521;527;Masculino;Ensino Médio Completo;41;105.0;113;22;RO;Norte;Brasil;0;Risco Moderado
+522;528;Masculino;Mestrado;67;162.0;196;6;CE;Nordeste;Brasil;1;Baixo Risco
+523;529;Feminino;Ensino Médio Incompleto;39;190.0;222;1;AC;Norte;Brasil;1;Baixo Risco
+524;530;Feminino;Ensino Fundamental Incompleto;57;141.0;174;12;MS;Centro-Oeste;Brasil;2;Alto Risco
+525;531;Masculino;Ensino Médio Completo;29;122.0;143;5;BA;Nordeste;Brasil;0;Risco Moderado
+526;532;Feminino;Ensino Médio Completo;31;136.0;169;3;AP;Norte;Brasil;2;Alto Risco
+527;533;Masculino;Ensino Médio Incompleto;34;131.0;165;5;BA;Nordeste;Brasil;2;Alto Risco
+528;534;Feminino;Ensino Médio Completo;44;157.0;194;1;AC;Norte;Brasil;2;Alto Risco
+529;535;Feminino;Ensino Médio Completo;30;181.0;217;25;SP;Sudeste;Brasil;1;Baixo Risco
+530;536;Masculino;Ensino Médio Incompleto;27;103.0;113;6;CE;Nordeste;Brasil;0;Risco Moderado
+531;537;Feminino;Ensino Médio Completo;27;127.0;150;21;RS;Sul;Brasil;2;Alto Risco
+532;538;Feminino;Ensino Médio Incompleto;32;189.0;223;3;AP;Norte;Brasil;1;Baixo Risco
+533;539;Feminino;Ensino Fundamental Completo;58;114.0;133;16;PR;Sul;Brasil;0;Risco Moderado
+534;540;Feminino;Ensino Médio Completo;35;125.0;149;14;PA;Norte;Brasil;0;Risco Moderado
+535;541;Feminino;Ensino Médio Incompleto;21;123.0;149;8;ES;Sudeste;Brasil;0;Risco Moderado
+536;542;Masculino;Ensino Médio Completo;28;116.0;130;19;RJ;Sudeste;Brasil;0;Risco Moderado
+537;543;Masculino;Ensino Médio Completo;46;172.0;207;9;GO;Centro-Oeste;Brasil;1;Baixo Risco
+538;544;Masculino;Ensino Médio Incompleto;36;129.0;157;5;BA;Nordeste;Brasil;2;Alto Risco
+539;545;Masculino;Ensino Médio Incompleto;72;107.0;115;1;AC;Norte;Brasil;0;Risco Moderado
+540;546;Masculino;Ensino Médio Incompleto;35;117.0;147;5;BA;Nordeste;Brasil;0;Risco Moderado
+541;547;Masculino;Ensino Médio Completo;33;148.0;176;26;SE;Nordeste;Brasil;2;Alto Risco
