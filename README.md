@@ -32,7 +32,7 @@ No contexto específico do estudo de caso de reconhecimento de pétalas e sépal
 7 - Avaliação do modelo:
 - Para o conjunto de dados da íris, como sabemos as espécies verdadeiras, podemos avaliar o desempenho do modelo comparando os clusters atribuídos com as espécies reais.
 
-## Entrar no ambiente virtual 
-pipenv shell
-
+# Projetos
+- Pétalas e Sépalas
+- Peso e Colesterol
 
